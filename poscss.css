@@ -1,0 +1,10 @@
+.yo{
+
+    position: relative;
+    left: 1000px;
+}
+
+.no{
+    position: static;
+    left: 10000px;
+}

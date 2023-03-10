@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.container{
+    position: relative;
+    width: 300px;
+    background-color: aliceblue;
+    height: 300px;
+}
+/* making the container relative will now set the red class to be the child
+class and the container class to be the parent class to perform absolute positioning*/
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    
+}
+
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: fixed;
+    left: 100px;
+
+    
+}
+
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    
+    
+
+    
+}
+

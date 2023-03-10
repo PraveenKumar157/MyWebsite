@@ -1,0 +1,18 @@
+p{
+    display: inline-block;
+    width: 200px;
+    background-color: linen;
+}
+
+.jj{
+    display: none;
+}
+
+.mm{
+    display: inline;
+}
+
+.ii{
+    display: block;
+}
+
